@@ -1,3 +1,7 @@
+# this python program can convert normal video into noise-cancelling video
+# In the image after we process, we can only see the ball and a little area which has 
+# similar color  with ball
+
 import cv2
 import numpy as np
 cap=cv2.VideoCapture("2.mp4")
